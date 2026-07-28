@@ -1,30 +1,18 @@
 # ia-journey
-Plan de 24 semanas para dominar LLMs, Claude Code, MCP y agentes.
+Plan de 48 semanas para dominar LLMs, Claude Code, MCP y agentes.
 Objetivo: consultor independiente de automatizacion IA + Claude Community Ambassador.
 
-## Progreso
-- [ ] Semana 0: Setup del entorno
-- [ ] Semana 1: Que es un LLM
-- [ ] Semana 2: Anatomia de herramientas de IA
-- [ ] Semana 3: Prompting profesional
-- [ ] Semana 4: RAG y datos propios
-- [ ] Semana 5: Claude Code - primer flujo
-- [ ] Semana 6: Claude Code en flujo real
-- [ ] Semana 7: Agent Skills
-- [ ] Semana 8: Cowork vs Code
-- [ ] Semana 9: MCP - concepto
-- [ ] Semana 10: Usar servidores MCP
-- [ ] Semana 11: Construir primer servidor MCP
-- [ ] Semana 12: MCP para ITSM
-- [ ] Semana 13: Patrones de agentes
-- [ ] Semana 14: Subagentes y orquestacion
-- [ ] Semana 15: Agentes autonomos
-- [ ] Semana 16: Evaluacion y confiabilidad
-- [ ] Semana 17: Proyecto 1 - Copiloto Service Desk
-- [ ] Semana 18: Proyecto 2 - Asistente personal
-- [ ] Semana 19: Proyecto 3 - Especialidad
-- [ ] Semana 20: Portafolio
-- [ ] Semana 21: Consultoria independiente
-- [ ] Semana 22: Primeros clientes
-- [ ] Semana 23: Sistema anti-obsolescencia
-- [ ] Semana 24: Aplicar a Claude Ambassador
+## Roadmap (48 semanas | jul 2026 - jun 2027)
+- [ ] Fase 0 (S0): Setup y entorno
+- [ ] Fase 1 (S1-5): Fundamentos y ecosistema multi-LLM
+- [ ] Fase 2 (S6-9): Python aplicado a IA
+- [ ] Fase 3 (S10-13): Bases de datos SQL y vectoriales
+- [ ] Fase 4 (S14-17): RAG desde cero
+- [ ] Fase 5 (S18-22): Claude Code, Skills y Cowork
+- [ ] Fase 6 (S23-27): MCP a fondo
+- [ ] Fase 7 (S28-32): Agentes y sistemas multiagente
+- [ ] Fase 8 (S33-35): Multimodalidad y herramientas creativas
+- [ ] Fase 9 (S36-40): Produccion y deployment
+- [ ] Fase 10 (S41-42): Fine-tuning y modelos propios
+- [ ] Fase 11 (S43-45): Proyectos integradores y portafolio
+- [ ] Fase 12 (S46-48): Consultoria independiente y Claude Ambassador
