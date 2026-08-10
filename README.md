@@ -3,7 +3,7 @@ Plan de 48 semanas para dominar LLMs, Claude Code, MCP y agentes.
 Objetivo: consultor independiente de automatizacion IA + Claude Community Ambassador.
 
 ## Roadmap (48 semanas | jul 2026 - jun 2027)
-- [ ] Fase 0 (S0): Setup y entorno
+- [X] Fase 0 (S0): Setup y entorno
 - [ ] Fase 1 (S1-5): Fundamentos y ecosistema multi-LLM
 - [ ] Fase 2 (S6-9): Python aplicado a IA
 - [ ] Fase 3 (S10-13): Bases de datos SQL y vectoriales
